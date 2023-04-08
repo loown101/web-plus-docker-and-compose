@@ -1,3 +1,3 @@
 - IP адрес: 84.201.133.240
-- Frontend: kpd.loown101.nomoredomains.monster
+- Frontend: https://kpd.loown101.nomoredomains.monster
 - Backend: https://api.kpd.loown101.nomoredomains.monster
